@@ -213,7 +213,3 @@ Telegram Trigger → Switch ("dashboard" detected)
 ## About
 
 Built by **Jacki Choo**
-
----
-
-*Part of the GDGoC Sunway Tech Club · Sunway University*

@@ -38,6 +38,7 @@ Send a receipt photo to your Telegram bot → **Gemini Vision** reads it → dat
 | Resource | Link |
 |----------|------|
 | Google Sheet Template | [Make a copy here](https://docs.google.com/spreadsheets/d/1nTD4c1_DAuDJAC9oDvgdNkp3-Fl5hT6t25DkiR3-LsE/edit?usp=sharing) |
+| Google Drive Receipts | [Make a copy here](https://drive.google.com/drive/folders/1Ide1xEytIBX5HoMl5I8laR4_rjseRXoY?usp=sharing) |
 | Workshop Slides (Canva) | [View slides](https://www.canva.com/d/uxl2sODyhvlNKaJ) |
 | n8n Cloud (free tier) | [n8n.io](https://n8n.io) |
 | Google AI Studio | [aistudio.google.com](https://aistudio.google.com) |
